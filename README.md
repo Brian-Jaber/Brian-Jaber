@@ -2,6 +2,10 @@
 
 Hello there! I'm Brian Jaber, a passionate Full Stack Engineer with a keen interest in building applications that are intuitive and easy to use as well as fast and responsive. I love working on my open-source CRM application for my family's small business and am always open to feedback to learn and grow.
 
+I love being able to build tools that benefit small businesses and love to learn about ways to improve my code. 
+
+In my free time I love playing fighting games, lifting weights, eating delicious food, and tinkering with keyboards.
+
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brianjaber/).
 
 ## Skills & Tech Stack
