@@ -1,10 +1,10 @@
 ## About Me
 
-Hello there! I'm Brian Jaber, a passionate Full Stack Engineer with a keen interest in building applications that are intuitive and easy to use as well as fast and responsive. I love working on my open-source CRM application for my family's small business and am always open to feedback to learn and grow.
+Dedicated Full Stack Engineer with a rich background in biology and technology. Currently developing a CRM application and streamlining operations for L.A.-based beverage retailer. I specialize in designing and implementing full stack web applications. My proficiency centers around React, Node/Express, and TypeScript, but my expertise extends beyond these to encompass a versatile array of technologies and tools.
 
-I love being able to build tools that benefit small businesses and love to learn about ways to improve my code. 
+Graduating with a Bachelor of Science in Biology from UC Irvine, I transitioned into the tech industry, honing my skills in agile development, collaboration, and web development. This unique journey from biology to software development has equipped me with a methodical, analytical approach to problem-solving, ensuring meticulous attention to detail and a strategic, big-picture perspective in project development.
 
-In my free time I love playing fighting games, lifting weights, eating delicious food, and tinkering with keyboards.
+I am particularly passionate about leveraging technology to improve healthcare and wellness sectors. My foundation in biology, combined with my software development skills, positions me uniquely to contribute to tech solutions that can positively impact health outcomes and enhance patient care experiences.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brianjaber/).
 
