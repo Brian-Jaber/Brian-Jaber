@@ -10,7 +10,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brianjabe
 
 ## Skills & Tech Stack
 
-Below are some of the technologies I am proficient with:
+Below are some of the technologies I have experience with:
 
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" width="100" height="30"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="30"/> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" width="100" height="30"/> <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width="100" height="30"/> <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" width="100" height="30"/> <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" width="100" height="30"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="100" height="30"/> <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" width="100" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" width="100" height="30"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" width="100" height="30"/>
