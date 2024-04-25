@@ -1,7 +1,5 @@
 ## About Me
 
-Dedicated Full Stack Engineer with a rich background in both biology and technology. I am currently developing a CRM application and streamlining operations for an L.A.-based beverage retailer. I specialize in designing and implementing full-stack web applications, with a focus on React, Node/Express, and TypeScript. My expertise extends beyond these technologies to encompass a versatile array of tools and technologies.
-
 After graduating with a Bachelor of Science in Biology from UC Irvine, I transitioned into the tech industry, where I have honed my skills in agile development, collaboration, and web development. This unique journey from biology to software development has equipped me with a methodical, analytical approach to problem-solving, ensuring meticulous attention to detail and a strategic, big-picture perspective in project development.
 
 I am particularly passionate about leveraging technology to improve the healthcare and wellness sectors. My foundation in biology, combined with my software development skills, uniquely positions me to contribute to tech solutions that can positively impact health outcomes and enhance patient care experiences.
